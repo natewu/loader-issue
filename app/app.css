@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background-color: #F1F3F4;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%;
+  justify-content: space-between;
+  margin: 0 2rem;
+}
+
+/*# sourceMappingURL=app.css.map */
